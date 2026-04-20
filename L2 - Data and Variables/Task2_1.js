@@ -14,7 +14,7 @@ console.log(admin);
 // 1. Create a variable with the name of our planet. How would you name such a variable?
 let homePlanet = "Earth";
 // 2. Create a variable to store the name of a current visitor to a website. How would you name that variable?
-let userName = "Alex";
+let userName = String(prompt("Whats your name gng?"));
 
 console.log(Number("12.2"));
 let age = Number(prompt("What is your age?"));
